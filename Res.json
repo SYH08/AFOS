@@ -1,0 +1,110 @@
+{
+  "Tar_Dir": [
+    "/Users/yhs/Desktop/AFOS Test Folder"
+  ],
+  "Extension": {
+    "img": [
+      ".bmp",
+      ".dib",
+      ".jpg",
+      ".jpeg",
+      ".gif",
+      ".png",
+      ".tif",
+      ".tiff",
+      ".raw",
+      ".arw",
+      ".orf",
+      ".nef",
+      ".nrw",
+      ".crw",
+      ".cr2",
+      ".srw",
+      ".pict",
+      ".heic",
+      ".wmf",
+      ".svg",
+      ".webp"
+    ],
+    "vid": [
+      ".mp4",
+      ".mov",
+      ".wmv",
+      ".avi",
+      ".avchd",
+      ".flv",
+      ".f4v",
+      ".swv",
+      ".mkv",
+      ".webm"
+    ],
+    "doc": [
+      ".ppt",
+      ".pptx",
+      ".doc",
+      ".docx",
+      ".xls",
+      ".xlsx",
+      ".csv",
+      ".txt",
+      ".hwp",
+      ".pdf"
+    ],
+    "zip": [
+      ".7z",
+      ".zip",
+      ".alz",
+      ".egg",
+      ".rar"
+    ],
+    "3D": [
+      ".dae",
+      ".usd",
+      ".usdc",
+      ".usda",
+      ".obj",
+      ".ply",
+      ".stl",
+      ".fbx",
+      ".chan"
+    ],
+    "blender": [
+      ".blend",
+      ".blend1"
+    ],
+    "psd": [
+      ".psd",
+      ".pdd"
+    ],
+    "ai": [
+      ".ai",
+      ".eps"
+    ],
+    "c4d": [
+      ".c4d"
+    ],
+    "exe": [
+      ".pkg",
+      ".exe"
+    ],
+    "font": [
+      ".ttf",
+      ".otf"
+    ],
+    "Xcodprj": [
+      ".xcodeprj",
+      ".swift"
+    ],
+    "py": [
+      ".py"
+    ],
+    "snd": [
+      ".wav",
+      ".flac",
+      ".mp3",
+      ".mid"
+    ]
+  }
+
+
+}
